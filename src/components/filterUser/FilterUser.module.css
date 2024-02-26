@@ -1,0 +1,21 @@
+.filter-section {
+  align-self: center;
+  width: 60%;
+}
+
+.wrapper {
+  width: 100%;
+  padding: 20px 20px;
+  display: flex;
+  gap: 20px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.filter {
+  flex: 1;
+}
+
+.dropdown {
+  border-radius: 10px;
+  background: white;
+}
